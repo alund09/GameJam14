@@ -19,6 +19,7 @@ public class ActivateTrigger : MonoBehaviour {
 	public int triggerCount = 1;///
 	public bool repeatTrigger = false;
 	
+// Test Changes have been done here !!!!!!!!!!!!!!!!!!!
 	void DoActivateTrigger () {
 		triggerCount--;
 
